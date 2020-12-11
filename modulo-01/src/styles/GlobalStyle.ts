@@ -8,7 +8,9 @@ export default createGlobalStyle`
     }
 
     body{
-        color: #4d4d4d;
+        color: #fff;
+        background-color: #202b36;
         font-family: 'Courier New', Courier, monospace;
+        font-size: 1.5rem;
     }
 `
